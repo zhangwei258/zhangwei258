@@ -1,4 +1,4 @@
-## Hi 全民制作人们大家好, 我是练习时长两年半的………… 👋
+## 全民制作人们大家好, 我是练习时长两年半的………… 👋
 
 <!--
 **zhangwei258/zhangwei258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
